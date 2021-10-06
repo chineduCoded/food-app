@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "img": "media/gallery1.png"
+    },
+    {
+        "id": "2",
+        "img": "media/gallery2.png"
+    },
+    {
+        "id": "3",
+        "img": "media/gallery3.png"
+    },
+    {
+        "id": "4",
+        "img": "media/gallery4.png"
+    },
+    {
+        "id": "5",
+        "img": "media/gallery5.png"
+    },
+    {
+        "id": "6",
+        "img": "media/gallery6.png"
+    }
+    
+]
