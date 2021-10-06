@@ -5,6 +5,7 @@ import HeroScreen from './HeroScreen'
 import AboutComp from './AboutComp'
 import MenuComp from './MenuComp'
 import GalleryComp from "./GalleryComp"
+import FooterComp from "./FooterComp"
 
 const FoodScreen = () => {
     return (
@@ -15,6 +16,7 @@ const FoodScreen = () => {
                 <AboutComp />
                 <MenuComp />
                 <GalleryComp />
+                <FooterComp />
             </Wrapper>
         </Container>
     )

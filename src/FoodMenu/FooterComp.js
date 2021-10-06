@@ -20,12 +20,19 @@ export default FooterComp
 
 const FooterWrapper = styled.div``;
 
-const InfoWrapper = styled.div``;
+const InfoWrapper = styled.div`
+width: 80%;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 70px;
+margin-bottom: 150px;
+`;
 
 const Div = styled.div`
-width: 300px;
-height: 150px;
-margin-top: 20px;
+width: 340px;
+height: 120px;
+margin: 0 20px;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -39,6 +46,7 @@ width: 100%;
 display: flex;
 justify-content: center;
 align-items: center;
+flex-direction: column;
 `;
 
 const Container = styled.div`
